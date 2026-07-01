@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://nmloanclarification.netlify.app/</loc>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://nmloanclarification.netlify.app/home-loan.html</loc>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://nmloanclarification.netlify.app/personal-loan.html</loc>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://nmloanclarification.netlify.app/education-loan.html</loc>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://nmloanclarification.netlify.app/gold-loan.html</loc>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://nmloanclarification.netlify.app/business-loan.html</loc>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://nmloanclarification.netlify.app/car-vehicle-loan.html</loc>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://nmloanclarification.netlify.app/mortgage-loan.html</loc>
+        <priority>0.9</priority>
+    </url>
+
+</urlset>
